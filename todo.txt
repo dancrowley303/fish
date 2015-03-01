@@ -12,7 +12,7 @@ bare minimum:
 
 nice to have:
 order scores by points
-analyze memory leaks
+[x] analyze memory leaks
 modularize code - break up into class structure
 unit tests for each class
 option for enhanced ai - cpu players can remember dealt cards, and consider when choosing targets

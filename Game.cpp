@@ -41,7 +41,6 @@ Game::~Game(void)
 
 void Game::Play()
 {
-
 	//set up deck
 	
 	std::random_shuffle(deck.begin(), deck.end(), Game::randomize);
