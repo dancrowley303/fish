@@ -1,0 +1,21 @@
+bare minimum:
+[x] hide display of cpu players
+[x] show piles for each player
+[x] when player fishes successfully, "show" card to other players
+[x] handle case when player has no cards left
+[x] handle case where you can change who you ask when you get to fish again
+[x] ai for cpu players
+[x] scoring at end
+[x] game ends when all 13 books are won
+[x] when player completes a book, gets another turn
+
+
+nice to have:
+order scores by points
+analyze memory leaks
+modularize code - break up into class structure
+unit tests for each class
+option for enhanced ai - cpu players can remember dealt cards, and consider when choosing targets
+enhanced ai - cpu asks for cards that they already have most multiples of
+graphics
+multiplayer
